@@ -4,6 +4,10 @@ body {
   padding: 20px;
 }
 
+* {
+  cursor: url('/cursor/cursor-cafe.cur'), auto;
+}
+
 /* MAIN */
 
 h1 {
